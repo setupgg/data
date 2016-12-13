@@ -1,0 +1,11 @@
+name: KHRN
+game: csgo
+preferences:
+    cm360: 18.1
+    game-sensitivity: 2.3
+    dpi: 1000
+    hz: 500
+    acceleration: 1.05
+    m_rawinput: 'No'
+hardware:
+    mousepad: zowie-g-sr

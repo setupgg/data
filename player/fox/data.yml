@@ -1,0 +1,25 @@
+name: 'Ricardo ''fox'' Pacheco'
+game: csgo
+team: faze-clan
+sites:
+    twitter: 'https://twitter.com/FaZe_foxCS'
+    instagram: 'https://instagram.com/foxcn543'
+    twitch: 'https://twitch.tv/Officialfoxcn'
+    facebook: 'https://facebook.com/foxcnofficial'
+    steam: 'http://steamcommunity.com/id/76561197962205264'
+    esea: 'https://play.esea.net/users/256545'
+preferences:
+    cm360: 20.1
+    game-sensitivity: 4.7
+    windows-sensitivity: 6
+    dpi: 450
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: zowie-g-sr
+    mouse: zowie-am-gs
+    headset: sennheiser-g4me
+    keyboard: ozone-strike

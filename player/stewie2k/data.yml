@@ -1,0 +1,21 @@
+name: 'Jake ''Stewie2k'' Yip'
+game: csgo
+team: cloud9
+sites:
+    twitter: 'https://twitter.com/c9stewie'
+    youtube: 'https://youtube.com/user/stewie2ktv'
+    twitch: 'https://twitch.tv/stewie2k'
+    facebook: 'https://facebook.com/Stewie2k'
+    esea: 'https://play.esea.net/users/744323'
+preferences:
+    cm360: 49.9
+    game-sensitivity: 1.85
+    dpi: 450
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2430t
+    mouse: logitech-g303

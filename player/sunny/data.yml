@@ -1,0 +1,14 @@
+name: suNny
+game: csgo
+preferences:
+    cm360: 31.5
+    game-sensitivity: 1.32
+    windows-sensitivity: 6
+    dpi: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1600x900
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: roccat-taito
+    mouse: roccat-kone-optical

@@ -1,0 +1,22 @@
+name: 'Freddy ''KRiMZ'' Johansson'
+game: csgo
+team: fnatic
+sites:
+    twitter: 'https://twitter.com/krimzCSGO'
+    instagram: 'https://instagram.com/freddykrimz'
+    twitch: 'https://twitch.tv/fnatickrimzcsgo'
+    facebook: 'https://facebook.com/OfficialKrimz'
+    steam: 'http://steamcommunity.com/id/76561198031651584'
+    esea: 'https://play.esea.net/users/536199'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    mousepad: steelseries-qck-heavy

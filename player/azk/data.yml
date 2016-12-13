@@ -1,0 +1,16 @@
+name: AZK
+game: csgo
+preferences:
+    cm360: 52
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2420t
+    mouse: zowie-ec2-a

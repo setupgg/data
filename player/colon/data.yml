@@ -1,0 +1,14 @@
+name: coloN
+game: csgo
+preferences:
+    cm360: 48.6
+    game-sensitivity: 1.9
+    windows-sensitivity: 4
+    dpi: 900
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: razer-goliathus
+    mouse: razer-deathadder-2013

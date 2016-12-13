@@ -1,0 +1,18 @@
+name: 'Henry ''HenryG'' Greer'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/henrygcsgo'
+    twitch: 'https://twitch.tv/henryg_tv'
+preferences:
+    game-sensitivity: 1.1
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+hardware:
+    keyboard: razer-blackwidow
+    headset: sennheiser-pc350se
+    mouse: zowie-fk1
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2420t

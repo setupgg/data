@@ -1,0 +1,15 @@
+name: roca
+game: csgo
+preferences:
+    cm360: 46.2
+    game-sensitivity: 0.5
+    windows-sensitivity: 6
+    dpi: 1800
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: razer-goliathus-control
+    mouse: razer-deathadder-chroma

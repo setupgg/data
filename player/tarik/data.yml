@@ -1,0 +1,16 @@
+name: Tarik
+game: csgo
+preferences:
+    cm360: 47.2
+    game-sensitivity: 1.1
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: asus-vg248qe
+    mouse: razer-deathadder-2013

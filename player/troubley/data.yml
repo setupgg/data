@@ -1,0 +1,16 @@
+name: Troubley
+game: csgo
+preferences:
+    cm360: 52
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1600x900
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: qpad
+    mouse: steelseries-rival

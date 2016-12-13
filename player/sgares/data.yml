@@ -1,0 +1,14 @@
+name: sgares
+game: csgo
+preferences:
+    cm360: 54.7
+    game-sensitivity: 1.9
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: hyperx-fury-xl
+    mouse: logitech-g303

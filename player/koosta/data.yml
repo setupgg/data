@@ -1,0 +1,21 @@
+name: 'Kenneth ''koosta'' Suen'
+game: csgo
+team: team-liquid
+sites:
+    twitter: 'https://twitter.com/Liquidkoosta'
+    twitch: 'https://twitch.tv/koosta_cs'
+    steam: 'http://steamcommunity.com/id/koosta'
+    esea: 'https://play.esea.net/users/469253'
+preferences:
+    cm360: 43.3
+    game-sensitivity: 2.4
+    windows-sensitivity: 6
+    dpi: 400
+    m_rawinput: 'Yes'
+    resolution: 1280×1024
+hardware:
+    keyboard: razer-blackwidow
+    headset: sennheiser-pc350se
+    mousepad: razer-goliathus-speed
+    mouse: razer-deathadder-chroma
+    chair: maxnomic-by-needforseat

@@ -1,0 +1,20 @@
+name: 'Lucas ''lucas1'' Teles'
+game: csgo
+team: tempo-storm
+sites:
+    twitter: 'https://twitter.com/TempoLucas1'
+    twitch: 'https://twitch.tv/lucasteles2'
+    facebook: 'https://facebook.com/lucastelesff2'
+    steam: 'http://steamcommunity.com/id/lucAs-'
+preferences:
+    game-sensitivity: 2.3
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 125
+    resolution: 1024x768
+hardware:
+    keyboard: razer-blackwidow
+    mousepad: razer-goliathus-speed
+    mouse: razer-deathadder-2013
+    monitor: benq-xl2730z
+    headset: razer-kraken-71-chroma

@@ -1,0 +1,25 @@
+name: 'Håvard ''rain'' Nygaard'
+game: csgo
+team: faze-clan
+sites:
+    twitter: 'https://twitter.com/FaZe_rainCS'
+    instagram: 'https://instagram.com/faze_raincs'
+    twitch: 'https://twitch.tv/raingomg'
+    facebook: 'https://facebook.com/csgorain'
+    esea: 'https://play.esea.net/users/550553'
+preferences:
+    cm360: 45.3
+    game-sensitivity: 2.05
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x800
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: xtrfy-xgp1-l4
+    mouse: qpad-5k
+    headset: sennheiser-363d
+    keyboard: xtrfy-xg1-1

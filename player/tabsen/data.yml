@@ -1,0 +1,24 @@
+name: 'Johannes ''tabseN'' Wodarz'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/NRG_tabseNcs'
+    twitch: 'https://twitch.tv/tabsen_cs'
+    facebook: 'https://facebook.com/tabsencs'
+    steam: 'http://steamcommunity.com/id/76561197961491680'
+    esea: 'https://play.esea.net/users/523750'
+preferences:
+    cm360: 84.7
+    game-sensitivity: 1.35
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: eizo-foris-fg2421
+    mouse: steelseries-sensei-raw
+    keyboard: steelseries-6gv2
+    headset: qpad-qh-90

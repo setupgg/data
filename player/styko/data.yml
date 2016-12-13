@@ -1,0 +1,25 @@
+name: 'Martin ''STYKO'' Styk '
+game: csgo
+team: hellraisers
+sites:
+    twitter: 'https://twitter.com/STYKOcsgo'
+    twitch: 'https://twitch.tv/stykop'
+    facebook: 'https://facebook.com/styko.csgo'
+    steam: 'http://steamcommunity.com/id/styko1337'
+    esea: 'https://play.esea.net/users/530509'
+preferences:
+    cm360: 52
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: benq-xl2430t
+    mousepad: razer-goliathus-speed-large
+    mouse: razer-deathadder-chroma
+    headset: razer-kraken-71-chroma
+    keyboard: razer-blackwidow-chroma

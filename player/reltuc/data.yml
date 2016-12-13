@@ -1,0 +1,11 @@
+name: reltuC
+game: csgo
+preferences:
+    cm360: 31.5
+    game-sensitivity: 1.65
+    windows-sensitivity: 6
+    dpi: 800
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mouse: razer-deathadder-2013

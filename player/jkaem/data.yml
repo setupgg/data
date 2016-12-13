@@ -1,0 +1,21 @@
+name: 'Joakim ''jkaem'' Myrbostad'
+game: csgo
+team: faze-clan
+sites:
+    twitter: 'https://twitter.com/FaZe_jkaem'
+    instagram: 'https://instagram.com/jkaem23'
+    twitch: 'https://twitch.tv/jkaem'
+    steam: 'http://steamcommunity.com/id/jkaemhomo'
+    esea: 'https://play.esea.net/users/549065'
+preferences:
+    cm360: 59.4
+    game-sensitivity: 1.75
+    windows-sensitivity: 5
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: xtrfy
+    mouse: zowie-ec2-a

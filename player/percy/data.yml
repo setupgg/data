@@ -1,0 +1,19 @@
+name: 'Martin ''percy'' Wessel'
+game: csgo
+team: cw
+sites:
+    twitter: 'https://twitter.com/wolves_PERCY'
+    twitch: 'https://twitch.tv/percyyyyy'
+    steam: 'http://steamcommunity.com/id/76561197996475850'
+    esea: 'https://play.esea.net/users/550116'
+preferences:
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: xtrfy
+    mouse: razer-deathadder-chroma
+    keyboard: xtrfy-xg1-1

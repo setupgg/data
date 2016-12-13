@@ -1,0 +1,16 @@
+name: Kairi
+game: csgo
+preferences:
+    cm360: 46.2
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 500
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1600x900
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: razer-goliathus-control
+    mouse: steelseries-rival-100

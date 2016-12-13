@@ -1,0 +1,26 @@
+name: 'Paweł ''byali'' Bieliński'
+game: csgo
+team: vp
+sites:
+    twitter: 'https://twitter.com/byalics'
+    instagram: 'https://instagram.com/byalkoo'
+    twitch: 'https://twitch.tv/byalli'
+    facebook: 'https://facebook.com/officialbyali'
+    steam: 'http://steamcommunity.com/id/bialyyy'
+    esea: 'https://play.esea.net/users/408889'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.6
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    keyboard: coolermaster-storm-quick-fire-stealth
+    monitor: benq-xl2430t
+    mousepad: zowie-g-sr
+    mouse: zowie-am-fg
+    headset: qpad-qh-1339

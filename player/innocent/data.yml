@@ -1,0 +1,24 @@
+name: 'Paweł ''innocent'' Mocek'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/CSGLinnocent'
+    instagram: 'https://instagram.com/pawelmocek'
+    twitch: 'https://twitch.tv/innocenttt'
+    facebook: 'https://facebook.com/escinnocent'
+    steam: 'http://steamcommunity.com/id/innocent-'
+preferences:
+    cm360: 74.2
+    game-sensitivity: 1.6
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411t
+    mousepad: zowie-g-sr
+    mouse: steelseries-rival
+    headset: sennheiser-g4me
+    keyboard: ozone-strike

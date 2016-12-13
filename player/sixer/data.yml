@@ -1,0 +1,21 @@
+name: 'Christophe ''sixeR'' Xia'
+game: csgo
+team: millenium
+sites:
+    twitter: 'https://twitter.com/SIXERcsgo'
+    twitch: 'https://twitch.tv/sixercsgo'
+    facebook: 'https://facebook.com/SIXERj'
+preferences:
+    game-sensitivity: 1.85
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    m_rawinput: 'Yes'
+    resolution: 1280x800
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2411t
+    mousepad: zowie-g-sr
+    mouse: zowie-za12
+    keyboard: steelseries-6gv2
+    headset: hyperx-cloud-core

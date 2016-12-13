@@ -1,0 +1,24 @@
+name: 'Damian ''daps'' Steele'
+game: csgo
+team: optic-gaming
+sites:
+    twitter: 'https://twitter.com/OpTic_daps'
+    instagram: 'https://instagram.com/dapscsgo'
+    twitch: 'https://twitch.tv/daps'
+    facebook: 'https://facebook.com/dapscsgo'
+    esea: 'https://play.esea.net/users/313322'
+preferences:
+    cm360: 69.3
+    game-sensitivity: 2.12
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    keyboard: coolermaster-storm-quick-fire-stealth
+    monitor: benq-xl2420t
+    mousepad: razer-goliathus
+    mouse: zowie-ec1-a

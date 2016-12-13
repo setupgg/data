@@ -1,0 +1,23 @@
+name: 'Nikola ''NiKo'' Kovač'
+game: csgo
+team: mousesports
+sites:
+    twitter: 'https://twitter.com/mouzNiKo'
+    instagram: 'https://instagram.com/csgoniko'
+    twitch: 'https://twitch.tv/nikkkooo1'
+    facebook: 'https://facebook.com/OfficialNiKolinho'
+    steam: 'http://steamcommunity.com/id/76561198041683378'
+    esea: 'https://play.esea.net/users/571970'
+preferences:
+    game-sensitivity: 1.55
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    resolution: 1024x768
+    aspect-ratio: '16:9'
+hardware:
+    headset: sennheiser-pc350se
+    monitor: benq-xl2430t
+    mousepad: zowie-g-sr
+    mouse: zowie-ec2-a
+    keyboard: zowie-celeritas

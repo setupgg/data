@@ -1,0 +1,25 @@
+name: 'Chris ''chrisJ'' De Jong'
+game: csgo
+team: mousesports
+sites:
+    twitter: 'https://twitter.com/chrisJcsgo'
+    twitch: 'https://twitch.tv/chrisjcsgo'
+    facebook: 'https://facebook.com/chrisJcs'
+    steam: 'http://steamcommunity.com/id/chrisJcs'
+    esea: 'https://play.esea.net/users/524905'
+preferences:
+    cm360: 49.6
+    game-sensitivity: 1.047
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: benq-xl2430t
+    mousepad: zowie-g-sr
+    mouse: zowie-za12
+    keyboard: zowie-celeritas
+    headset: sennheiser-g4me

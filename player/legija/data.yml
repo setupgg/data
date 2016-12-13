@@ -1,0 +1,25 @@
+name: 'Nikola ''LEGIJA'' Ninic'
+game: csgo
+team: nrg
+sites:
+    twitter: 'https://twitter.com/NRG_LEGIJA'
+    twitch: 'https://twitch.tv/legijaa'
+    facebook: 'https://facebook.com/LEGIJAcs'
+    steam: 'http://steamcommunity.com/id/76561197981508015'
+    esea: 'https://play.esea.net/users/536554'
+preferences:
+    cm360: 110.5
+    game-sensitivity: 0.47
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mouse: zowie-fk1
+    monitor: benq-xl2420t
+    mousepad: steelseries-qck-plus
+    keyboard: epicgear-dezimator
+    headset: steelseries-raw-prism

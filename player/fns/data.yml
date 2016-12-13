@@ -1,0 +1,23 @@
+name: 'Pujan ''FNS'' Mehta'
+game: csgo
+team: tsm
+sites:
+    twitter: 'https://twitter.com/TSMFNS'
+    twitch: 'https://twitch.tv/gofns'
+    facebook: 'https://facebook.com/GOfns'
+    steam: 'http://steamcommunity.com/id/FNS-A-'
+    esea: 'https://play.esea.net/users/199546'
+preferences:
+    cm360: 59.4
+    game-sensitivity: 1.75
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: asus-vg248qe
+    mouse: logitech-g303
+    headset: logitech-g633
+    keyboard: logitech-g910

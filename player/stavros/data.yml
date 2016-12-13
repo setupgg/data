@@ -1,0 +1,13 @@
+name: stavros
+game: csgo
+preferences:
+    cm360: 46.2
+    game-sensitivity: 2.25
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mouse: logitech-g400s

@@ -1,0 +1,25 @@
+name: 'Peter ''dupreeh'' Rasmussen'
+game: csgo
+team: astralis
+sites:
+    twitter: 'https://twitter.com/dupreehCSGO'
+    twitch: 'https://twitch.tv/dupreeh'
+    facebook: 'https://facebook.com/dupreehcsgo'
+    steam: 'http://steamcommunity.com/id/76561198004854956'
+    esea: 'https://play.esea.net/users/522298'
+preferences:
+    cm360: 64.6
+    game-sensitivity: 1.43
+    windows-sensitivity: 6
+    dpi: 500
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1680x1050
+    aspect-ratio: '16:10'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2411t
+    mouse: steelseries-rival-100
+    keyboard: steelseries-6gv2
+    headset: hyperx-cloud-2

@@ -1,0 +1,14 @@
+name: twist
+game: csgo
+preferences:
+    cm360: 40
+    game-sensitivity: 2.6
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1600x900
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: xtrfy

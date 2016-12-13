@@ -1,0 +1,20 @@
+name: 'Niko ''naSu'' Kovanen'
+game: csgo
+team: skitlite
+sites:
+    twitter: 'https://twitter.com/nsubcs'
+    twitch: 'https://twitch.tv/nsub'
+    facebook: 'https://facebook.com/NikonsubKovanen'
+preferences:
+    cm360: 35.8
+    game-sensitivity: 2.6
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x720
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: steelseries-qck-heavy
+    mouse: zowie-ec2-a

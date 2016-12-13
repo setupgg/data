@@ -1,0 +1,21 @@
+name: 'Tyler ''Skadoodle'' Latham'
+game: csgo
+team: cloud9
+sites:
+    twitter: 'https://twitter.com/C9_Skadoodle'
+    twitch: 'https://twitch.tv/skadoodle'
+    facebook: 'https://facebook.com/OfficialSkadoodle'
+    steam: 'http://steamcommunity.com/id/skadoodlecs'
+    esea: 'https://play.esea.net/users/358317'
+preferences:
+    cm360: 74.2
+    game-sensitivity: 1.4
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2430t
+    mouse: logitech-g100s

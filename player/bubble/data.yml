@@ -1,0 +1,23 @@
+name: 'Kamen ''bubble'' Kostadinov'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/bubblen1CSGO'
+    instagram: 'https://instagram.com/kamenbubble'
+    twitch: 'https://twitch.tv/bubblen1'
+    facebook: 'https://facebook.com/gpbubble'
+    esea: 'https://play.esea.net/users/623252'
+preferences:
+    cm360: 71.9
+    game-sensitivity: 1.07
+    windows-sensitivity: 6
+    dpi: 540
+    hz: 1000
+    acceleration: 1
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2430t
+    mouse: steelseries-sensei-raw
+    headset: cm-storm-pitch

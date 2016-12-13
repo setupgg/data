@@ -1,0 +1,21 @@
+name: 'Gustavo ''SHOOWTiME'' Gonçalves'
+game: csgo
+team: tempo-storm
+sites:
+    twitter: 'https://twitter.com/TempoSHOOWTiME'
+    twitch: 'https://twitch.tv/gfxshoowtime'
+    facebook: 'https://facebook.com/gustavoshowtime'
+    steam: 'http://steamcommunity.com/id/shoowtime'
+preferences:
+    cm360: 55.4
+    game-sensitivity: 0.5
+    windows-sensitivity: 6
+    dpi: 1500
+    m_rawinput: 'Yes'
+    resolution: 1280×960
+hardware:
+    keyboard: razer-blackwidow
+    mousepad: steelseries-qck-heavy
+    mouse: steelseries-sensei
+    headset: hyperx-cloud-2
+    monitor: benq-xl2730z

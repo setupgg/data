@@ -1,0 +1,23 @@
+name: 'Andreas ''MODDII'' Fridh'
+game: csgo
+team: sk
+sites:
+    twitter: 'https://twitter.com/MODDII1'
+    twitch: 'https://twitch.tv/moddii_t'
+    facebook: 'https://facebook.com/AF.MODDII'
+    steam: 'http://steamcommunity.com/id/76561197961124456'
+    esea: 'https://play.esea.net/users/263102'
+preferences:
+    cm360: 53.3
+    game-sensitivity: 1.9
+    windows-sensitivity: 5
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: roccat-taito
+    mouse: steelseries-rival
+    keyboard: steelseries-6gv2

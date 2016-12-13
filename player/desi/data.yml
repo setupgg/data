@@ -1,0 +1,19 @@
+name: 'Derek ''desi'' Branchen'
+game: csgo
+sites:
+    twitch: 'https://twitch.tv/desi_tv'
+    steam: 'http://steamcommunity.com/id/76561197960677546'
+    esea: 'https://play.esea.net/users/175548'
+preferences:
+    cm360: 56
+    game-sensitivity: 1.65
+    windows-sensitivity: 6
+    dpi: 450
+    acceleration: 1.05
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: puretrak
+    mouse: steelseries-sensei-raw

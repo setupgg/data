@@ -1,0 +1,26 @@
+name: 'Fabien ''kioShiMa'' Fiey'
+game: csgo
+team: faze-clan
+sites:
+    twitter: 'https://twitter.com/kiocsgoo'
+    instagram: 'https://instagram.com/kioshimax'
+    twitch: 'https://twitch.tv/kiocsgo'
+    facebook: 'https://facebook.com/kiocsgo'
+    steam: 'http://steamcommunity.com/id/76561198000782895'
+    esea: 'https://play.esea.net/users/530500'
+preferences:
+    cm360: 41.6
+    game-sensitivity: 2.51
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x800
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: zowie-g-sr
+    mouse: zowie-za12
+    headset: hyperx-cloud-2
+    keyboard: kingston-hyperx

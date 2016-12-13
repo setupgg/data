@@ -1,0 +1,23 @@
+name: 'Oleksandr ''Shara'' Hordieiev'
+game: csgo
+team: flipsid3-tactics
+sites:
+    twitter: 'https://twitter.com/flipsid3tactics'
+    twitch: 'https://twitch.tv/sharawf'
+    facebook: 'https://facebook.com/flipsid3tactics'
+    steam: 'http://steamcommunity.com/id/SharaWF'
+    esea: 'https://play.esea.net/users/1184409'
+preferences:
+    cm360: 103.9
+    game-sensitivity: 2
+    windows-sensitivity: 4
+    dpi: 400
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2420t
+    mouse: microsoft-intellimouse-11a
+    headset: sennheiser-g4me
+    keyboard: zalman-zm-k400g

@@ -1,0 +1,19 @@
+name: 'Arya ''arya'' Hekmat'
+game: csgo
+team: splyce
+sites:
+    twitter: 'https://twitter.com/SPY_arya'
+    twitch: 'https://twitch.tv/52arya'
+    steam: 'http://steamcommunity.com/id/arya52'
+    esea: 'https://play.esea.net/users/381896'
+preferences:
+    game-sensitivity: 2.1
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    resolution: 1024x768
+hardware:
+    headset: sennheiser-pc350se
+    mousepad: steelseries-qck-plus
+    mouse: steelseries-rival-300
+    keyboard: zowie-celeritas

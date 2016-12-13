@@ -1,0 +1,23 @@
+name: 'André ''Kirby'' Kempa'
+game: csgo
+sites:
+    twitch: 'https://twitch.tv/kirby_tv'
+    facebook: 'https://facebook.com/NPKirby'
+    steam: 'http://steamcommunity.com/id/NPKirby'
+    esea: 'https://play.esea.net/users/515319'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-plus
+    monitor: eizo-foris-fg2421
+    mouse: steelseries-rival-300
+    keyboard: steelseries-apex-m800
+    headset: steelseries-9h

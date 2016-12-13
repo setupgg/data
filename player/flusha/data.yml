@@ -1,0 +1,23 @@
+name: 'Robin ''flusha'' Rönnquist'
+game: csgo
+team: fnatic
+sites:
+    twitter: 'https://twitter.com/fnaticFlusha'
+    twitch: 'https://twitch.tv/flusha'
+    facebook: 'https://facebook.com/flushaCSGO'
+    steam: 'http://steamcommunity.com/id/76561197991348083'
+    esea: 'https://play.esea.net/users/528638'
+preferences:
+    cm360: 56.2
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2430t
+    mouse: steelseries-rival

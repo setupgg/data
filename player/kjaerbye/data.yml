@@ -1,0 +1,25 @@
+name: 'Markus ''Kjaerbye'' Kjærbye'
+game: csgo
+team: astralis
+sites:
+    twitter: 'https://twitter.com/dKjaerbye'
+    instagram: 'https://instagram.com/markuskjaerbye'
+    twitch: 'https://twitch.tv/Kjaerbye98'
+    facebook: 'https://facebook.com/Kjaerbye'
+    steam: 'http://steamcommunity.com/id/Gizminister'
+    esea: 'https://play.esea.net/users/490960'
+preferences:
+    cm360: 55.4
+    game-sensitivity: 2.5
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1440x900
+    aspect-ratio: '16:10'
+hardware:
+    mouse: zowie-fk1
+    monitor: asus-vg248qe
+    mousepad: corsair-mm200-xl
+    keyboard: corsair-vengeance-k70
+    headset: corsair-void-usb

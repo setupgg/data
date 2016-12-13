@@ -1,0 +1,23 @@
+name: 'Morten ''zEVES'' Vollan'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/zEVEScsgo'
+    twitch: 'https://twitch.tv/zeves'
+    facebook: 'https://facebook.com/officialzeves'
+    steam: 'http://steamcommunity.com/id/zEVESs'
+    esea: 'https://play.esea.net/users/533908'
+preferences:
+    cm360: 64.9
+    game-sensitivity: 0.8
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    headset: sennheiser-pc350se
+    monitor: benq-xl2411t
+    mousepad: zowie
+    mouse: zowie-ec1

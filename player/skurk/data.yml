@@ -1,0 +1,15 @@
+name: Skurk
+game: csgo
+preferences:
+    cm360: 46.2
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: zowie-g-cm
+    mouse: zowie-ec1-evo-cl

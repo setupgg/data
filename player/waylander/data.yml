@@ -1,0 +1,16 @@
+name: 'Jan ''wayLander'' Rahkonen'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/waylanderCS'
+    instagram: 'https://instagram.com/waylandercsgo'
+    youtube: 'https://youtube.com/user/WayLanderZor'
+    steam: 'http://steamcommunity.com/id/waylanderCS'
+    esea: 'https://play.esea.net/users/606642'
+preferences:
+    cm360: 77
+    game-sensitivity: 0.3
+    dpi: 1800
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'

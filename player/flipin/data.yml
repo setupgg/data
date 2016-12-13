@@ -1,0 +1,15 @@
+name: FlipiN
+game: csgo
+preferences:
+    cm360: 21.9
+    game-sensitivity: 1.9
+    windows-sensitivity: 6
+    dpi: 1000
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-dex-gaming
+    mouse: steelseries-kinzu-v3

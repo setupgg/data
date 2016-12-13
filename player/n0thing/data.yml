@@ -1,0 +1,27 @@
+name: 'Jordan ''n0thing'' Gilbert'
+game: csgo
+team: cloud9
+sites:
+    twitter: 'https://twitter.com/c9n0thing'
+    instagram: 'https://instagram.com/nzer0thing'
+    youtube: 'https://youtube.com/user/n0thingTV'
+    twitch: 'https://twitch.tv/n0thingtv'
+    facebook: 'https://facebook.com/Jordann0thingGilbert'
+    steam: 'http://steamcommunity.com/id/Jordann0thingGilbert'
+    esea: 'https://play.esea.net/users/185353'
+preferences:
+    cm360: 61.1
+    game-sensitivity: 1.9
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: logitech-g440
+    mouse: logitech-g100s
+    headset: logitech-g430
+    keyboard: logitech-g710

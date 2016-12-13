@@ -1,0 +1,15 @@
+name: jdm64
+game: csgo
+preferences:
+    cm360: 37.8
+    game-sensitivity: 2.75
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2410t
+    mouse: razer-deathadder-2013

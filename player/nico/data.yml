@@ -1,0 +1,21 @@
+name: 'Nicolaj ''Nico'' Jensen'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/NicoCSGO'
+    twitch: 'https://twitch.tv/nicobombs'
+    facebook: 'https://facebook.com/FollowNico'
+preferences:
+    cm360: 60.4
+    game-sensitivity: 0.85
+    windows-sensitivity: 6
+    dpi: 810
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2410t
+    mouse: steelseries-sensei-raw
+    keyboard: steelseries-6gv2
+    headset: steelseries-9h

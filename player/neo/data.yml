@@ -1,0 +1,25 @@
+name: 'Filip ''Neo'' Kubski'
+game: csgo
+team: vp
+sites:
+    twitter: 'https://twitter.com/neo_fkubski'
+    instagram: 'https://instagram.com/neo_fk'
+    youtube: 'https://youtube.com/user/NEOGEARofficial'
+    twitch: 'https://twitch.tv/neog5'
+    facebook: 'https://facebook.com/filipneokubski'
+    steam: 'http://steamcommunity.com/id/NEOZORD'
+    esea: 'https://play.esea.net/users/253355'
+preferences:
+    cm360: 53.3
+    game-sensitivity: 1.95
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 800x600
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: zowie-g-sr
+    mouse: zowie-am-gs

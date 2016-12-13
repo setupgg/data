@@ -1,0 +1,25 @@
+name: 'Michael ''Shroud'' Grzesiek'
+game: csgo
+team: cloud9
+sites:
+    twitter: 'https://twitter.com/c9shroud'
+    youtube: 'https://youtube.com/user/shroud'
+    twitch: 'https://twitch.tv/shroud'
+    facebook: 'https://facebook.com/c9shroud'
+    steam: 'http://steamcommunity.com/id/C9shroud'
+    esea: 'https://play.esea.net/users/248592'
+preferences:
+    cm360: 52
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2430t
+    mouse: logitech-g303
+    headset: logitech-g633
+    keyboard: logitech-g410

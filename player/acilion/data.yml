@@ -1,0 +1,21 @@
+name: 'Asger ''AcilioN'' Larsen'
+game: csgo
+team: sk
+sites:
+    twitter: 'https://twitter.com/AcilioNcs'
+    twitch: 'https://twitch.tv/AcilioNCS'
+    facebook: 'https://facebook.com/AcilioNcs'
+    steam: 'http://steamcommunity.com/id/AcilioN'
+preferences:
+    cm360: 38.5
+    game-sensitivity: 1.35
+    dpi: 800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: mionix-sargas-450-sk
+    mouse: razer-deathadder

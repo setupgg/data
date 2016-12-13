@@ -1,0 +1,16 @@
+name: Maikelele
+game: csgo
+preferences:
+    cm360: 54.7
+    game-sensitivity: 1.9
+    windows-sensitivity: 5
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x800
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: xtrfy
+    mouse: newmen-gx-1-pro

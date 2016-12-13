@@ -1,0 +1,17 @@
+name: 'Sergey ''starix'' Ischuk'
+game: csgo
+team: navi
+sites:
+    twitter: 'https://twitter.com/sergeyischuk'
+    twitch: 'https://twitch.tv/starix'
+    facebook: 'https://facebook.com/StarixIschukOfficial'
+preferences:
+    cm360: 40
+    game-sensitivity: 2.6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+hardware:
+    mousepad: steelseries-qck-plus
+    mouse: steelseries-kana

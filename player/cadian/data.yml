@@ -1,0 +1,25 @@
+name: 'Casper ''cadiaN'' Møller'
+game: csgo
+team: sk
+sites:
+    twitter: 'https://twitter.com/caspercadiaN'
+    twitch: 'https://twitch.tv/cadianuz'
+    facebook: 'https://facebook.com/caspercadiaN'
+    steam: 'http://steamcommunity.com/id/cadiaNuz'
+    esea: 'https://play.esea.net/users/388062'
+preferences:
+    cm360: 40
+    game-sensitivity: 2.6
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411t
+    mousepad: mionix-sargas-450-sk
+    mouse: steelseries-rival
+    headset: hyperx-cloud-2
+    keyboard: razer-blackwidow-chroma

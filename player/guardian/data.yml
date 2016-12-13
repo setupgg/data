@@ -1,0 +1,23 @@
+name: 'Ladislav ''GuardiaN'' Kovács'
+game: csgo
+team: navi
+sites:
+    twitter: 'https://twitter.com/guardiancsgo'
+    twitch: 'https://twitch.tv/rguardian'
+    facebook: 'https://facebook.com/CSGuardiaN'
+    steam: 'http://steamcommunity.com/id/lololGuardian'
+    esea: 'https://play.esea.net/users/359586'
+preferences:
+    cm360: 79.9
+    game-sensitivity: 1.3
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 800x600
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: steelseries-qck-plus
+    mouse: steelseries-kinzu-v1

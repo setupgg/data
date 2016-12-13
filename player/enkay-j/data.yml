@@ -1,0 +1,25 @@
+name: 'Niclas ''enkay J'' Krumhorn'
+game: csgo
+team: mousesports
+sites:
+    twitter: 'https://twitter.com/enkay_J'
+    twitch: 'https://twitch.tv/enkayy_j'
+    facebook: 'https://facebook.com/enkayyJ'
+    steam: 'http://steamcommunity.com/id/76561197962228941'
+    esea: 'https://play.esea.net/users/242923'
+preferences:
+    cm360: 61.1
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: zowie-g-sr
+    mouse: zowie-ec2-a
+    keyboard: tt-esports-poseidon-z
+    headset: tt-esports-shock-3d-71

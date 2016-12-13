@@ -1,0 +1,25 @@
+name: 'Joye ''fxy0'' Schlosser'
+game: csgo
+team: millenium
+sites:
+    twitter: 'https://twitter.com/fxy0cs'
+    twitch: 'https://twitch.tv/fxyzer0'
+    facebook: 'https://facebook.com/fxy0CS'
+    steam: 'http://steamcommunity.com/id/f0xy0'
+    esea: 'https://play.esea.net/users/562620'
+preferences:
+    cm360: 36.9
+    game-sensitivity: 2.5
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: acer-gd235hz
+    mouse: zowie-ec2
+    keyboard: zowie-celeritas
+    headset: sennheiser-g4me

@@ -1,0 +1,15 @@
+name: jOELZ
+game: csgo
+preferences:
+    cm360: 22.2
+    game-sensitivity: 4.68
+    dpi: 400
+    hz: 1000
+    acceleration: 1.01
+    m_rawinput: 'Yes'
+    resolution: 1152x864
+    aspect-ratio: '4:3'
+hardware:
+    monitor: aoc-g2460p
+    mousepad: logitech-g240
+    mouse: zowie-fk2

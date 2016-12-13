@@ -1,0 +1,25 @@
+name: 'Richard ''shox'' Papillon'
+game: csgo
+team: g2
+sites:
+    twitter: 'https://twitter.com/G2shox'
+    twitch: 'https://twitch.tv/shoxiejesuss'
+    facebook: 'https://facebook.com/Officialshox'
+    steam: 'http://steamcommunity.com/id/76561198006920295'
+    esea: 'https://play.esea.net/users/542026'
+preferences:
+    cm360: 46.2
+    game-sensitivity: 3
+    windows-sensitivity: 5
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mouse: zowie-fk1
+    monitor: benq-xl2411t
+    mousepad: zowie-g-sr
+    keyboard: zowie-celeritas
+    headset: sennheiser-g4me

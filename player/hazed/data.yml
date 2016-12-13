@@ -1,0 +1,15 @@
+name: Hazed
+game: csgo
+preferences:
+    cm360: 31.5
+    game-sensitivity: 3.3
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: razer-goliathus-speed
+    mouse: razer-deathadder-chroma

@@ -1,0 +1,20 @@
+name: 'Hendrik ''strux1'' Goetzendorff'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/strux1'
+    facebook: 'https://facebook.com/strux1'
+    esea: 'https://play.esea.net/users/322432'
+preferences:
+    cm360: 29.8
+    game-sensitivity: 2.5
+    windows-sensitivity: 6
+    dpi: 450
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    mouse: zowie-ec2-evo
+    keyboard: steelseries-6gv2
+    monitor: samsung-syncmaster-2233

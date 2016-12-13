@@ -1,0 +1,26 @@
+name: 'Nicolai ''dev1ce'' Reedtz'
+game: csgo
+team: astralis
+sites:
+    twitter: 'https://twitter.com/dev1ce'
+    instagram: 'https://instagram.com/devveking'
+    twitch: 'https://twitch.tv/device'
+    facebook: 'https://facebook.com/followDev1ce'
+    steam: 'http://steamcommunity.com/id/devvek1ng'
+    esea: 'https://play.esea.net/users/387228'
+preferences:
+    cm360: 47.2
+    game-sensitivity: 2.2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: zowie-g-sr
+    mouse: razer-deathadder-chroma
+    keyboard: zowie-celeritas
+    headset: hyperx-cloud-2

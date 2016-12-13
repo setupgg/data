@@ -1,0 +1,21 @@
+name: 'Philip ''aizy'' Aistrup'
+game: csgo
+team: faze-clan
+sites:
+    twitter: 'https://twitter.com/FaZe_aizy'
+    instagram: 'https://instagram.com/faze_aizy'
+    twitch: 'https://twitch.tv/aizycsgo'
+    esea: 'https://play.esea.net/users/534690'
+preferences:
+    cm360: 41.6
+    game-sensitivity: 2.5
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mouse: zowie-fk1
+    monitor: benq-xl2420t
+    mousepad: corsair-mm200-xl

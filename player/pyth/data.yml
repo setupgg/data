@@ -1,0 +1,26 @@
+name: 'Jacob ''pyth'' Mourujärvi'
+game: csgo
+team: nip
+sites:
+    twitter: 'https://twitter.com/pythCS'
+    youtube: 'https://youtube.com/user/pythdUde'
+    twitch: 'https://twitch.tv/pyth'
+    facebook: 'https://facebook.com/pythofficial'
+    steam: 'http://steamcommunity.com/id/officialpyth'
+    esea: 'https://play.esea.net/users/506609'
+preferences:
+    cm360: 43.3
+    game-sensitivity: 2.6
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2411t
+    mouse: zowie-ec2-a
+    keyboard: xtrfy-xg-k2-rgb
+    headset: sennheiser-g4me

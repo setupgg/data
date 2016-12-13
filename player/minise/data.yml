@@ -1,0 +1,24 @@
+name: 'Jacek ''MINISE'' Jeziak'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/miniseCSGO'
+    instagram: 'https://instagram.com/jzacko'
+    twitch: 'https://twitch.tv/dgminise'
+    facebook: 'https://facebook.com/miniseCSGO'
+    steam: 'http://steamcommunity.com/id/76561197989620454'
+    esea: 'https://play.esea.net/users/578562'
+preferences:
+    cm360: 30.8
+    game-sensitivity: 3
+    windows-sensitivity: 6
+    dpi: 450
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411t
+    mousepad: zowie-g-sr
+    mouse: zowie-fk
+    keyboard: ozone-strike
+    headset: steelseries-elite-prism

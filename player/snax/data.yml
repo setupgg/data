@@ -1,0 +1,24 @@
+name: 'Janusz ''Snax'' Pogorzelski'
+game: csgo
+team: vp
+sites:
+    twitter: 'https://twitter.com/cios_snax'
+    twitch: 'https://twitch.tv/snaxik'
+    facebook: 'https://facebook.com/snaxfz'
+    esea: 'https://play.esea.net/users/578565'
+preferences:
+    cm360: 50.4
+    game-sensitivity: 1.9
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 800x600
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: qpad
+    mouse: zowie-fk2
+    headset: qpad-qh-90
+    keyboard: tesoro-durandal

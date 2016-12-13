@@ -1,0 +1,23 @@
+name: 'Lincoln ''fnx'' Lau'
+game: csgo
+team: lg
+sites:
+    twitter: 'https://twitter.com/LG_fnx'
+    twitch: 'https://twitch.tv/fnxlntc'
+    facebook: 'https://facebook.com/lincolnfnxcs'
+    steam: 'http://steamcommunity.com/id/76561198130444302'
+preferences:
+    cm360: 58.7
+    game-sensitivity: 1.77
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 125
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mouse: zowie-za12
+    headset: hyperx-cloud-2
+    mousepad: zowie-tf-x
+    keyboard: razer-blackwidow-2013

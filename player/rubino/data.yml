@@ -1,0 +1,26 @@
+name: 'Ruben ''RUBINO'' Villarroel'
+game: csgo
+team: team-dignitas
+sites:
+    twitter: 'https://twitter.com/rubinoeu'
+    instagram: 'https://instagram.com/rubenvil'
+    twitch: 'https://twitch.tv/rubinoeu'
+    facebook: 'https://facebook.com/rubinoeu'
+    steam: 'http://steamcommunity.com/id/rubino2k'
+    esea: 'https://play.esea.net/users/536287'
+preferences:
+    cm360: 46.2
+    game-sensitivity: 2.25
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1440x900
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2430t
+    mousepad: corsair-mm200-xl
+    mouse: zowie-ec2-a
+    keyboard: corsair-strafe
+    headset: corsair-void-usb

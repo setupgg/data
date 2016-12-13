@@ -1,0 +1,15 @@
+name: 'Bartosz ''Hyper'' Wolny'
+game: csgo
+team: team-agg
+preferences:
+    cm360: 37.6
+    game-sensitivity: 1.38
+    dpi: 800
+    acceleration: 1.05
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2410t
+    mousepad: qpad-uc
+    mouse: cm-storm-alcor

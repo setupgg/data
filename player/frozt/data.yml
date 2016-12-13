@@ -1,0 +1,14 @@
+name: Frozt
+game: csgo
+preferences:
+    cm360: 52
+    game-sensitivity: 2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: asus-vg248qe
+    mouse: steelseries-rival

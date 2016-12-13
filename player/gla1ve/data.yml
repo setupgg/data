@@ -1,0 +1,20 @@
+name: 'Lukas ''gla1ve'' Rossander'
+game: csgo
+team: cw
+sites:
+    facebook: 'https://facebook.com/gla1ve'
+    steam: 'http://steamcommunity.com/id/76561198010511021'
+    esea: 'https://play.esea.net/users/385021'
+preferences:
+    cm360: 35.8
+    game-sensitivity: 2.9
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-plus
+    mouse: cooler-master-mizar

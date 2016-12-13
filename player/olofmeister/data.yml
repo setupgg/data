@@ -1,0 +1,24 @@
+name: 'Olof  ''olofmeister'' Kajbjer'
+game: csgo
+team: fnatic
+sites:
+    twitter: 'https://twitter.com/olofmcs'
+    instagram: 'https://instagram.com/olofkajbjer'
+    twitch: 'https://twitch.tv/olofmeister'
+    facebook: 'https://facebook.com/olofmeister'
+    steam: 'http://steamcommunity.com/id/76561197988627193'
+    esea: 'https://play.esea.net/users/539171'
+preferences:
+    cm360: 54.3
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    mouse: steelseries-rival
+    monitor: benq-xl2730z

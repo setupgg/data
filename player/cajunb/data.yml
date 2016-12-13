@@ -1,0 +1,26 @@
+name: 'René ''cajunb'' Borg'
+game: csgo
+team: astralis
+sites:
+    twitter: 'https://twitter.com/cajunbCS'
+    instagram: 'https://instagram.com/rene_borg'
+    twitch: 'https://twitch.tv/cajunb'
+    facebook: 'https://facebook.com/René-cajunb-Borg-690730944391650'
+    steam: 'http://steamcommunity.com/id/76561197978328043'
+    esea: 'https://play.esea.net/users/560073'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 5
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2420t
+    mouse: zowie-ec1-a
+    keyboard: steelseries-6gv2
+    headset: sennheiser-g4me

@@ -1,0 +1,15 @@
+name: ptr
+game: csgo
+preferences:
+    cm360: 40
+    game-sensitivity: 2.6
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-plus
+    monitor: benq-xl2410t
+    mouse: zowie-ec2-a

@@ -1,0 +1,27 @@
+name: 'Ryan ''fREAKAZOiD'' Abadir'
+game: csgo
+team: cloud9
+sites:
+    twitter: 'https://twitter.com/freakazoid_tv'
+    instagram: 'https://instagram.com/ryanabadir'
+    youtube: 'https://youtube.com/user/FreakazoidTV'
+    twitch: 'https://twitch.tv/freakazoid_tv'
+    facebook: 'https://facebook.com/freakazoidtv'
+    steam: 'http://steamcommunity.com/id/ryanabadir'
+    esea: 'https://play.esea.net/users/236983'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2430t
+    mousepad: logitech-g640
+    mouse: logitech-g303
+    headset: logitech-g633
+    keyboard: logitech-g810

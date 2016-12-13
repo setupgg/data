@@ -1,0 +1,16 @@
+name: zqk
+game: csgo
+preferences:
+    cm360: 50.1
+    game-sensitivity: 1.66
+    windows-sensitivity: 5
+    dpi: 500
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-plus
+    monitor: benq-xl2410t
+    mouse: zowie-ec1

@@ -1,0 +1,20 @@
+name: 'Joona ''natu'' Leppänen'
+game: csgo
+team: ence-esports
+sites:
+    twitter: 'https://twitter.com/natuCSGO'
+    youtube: 'https://youtube.com/user/natucsgovideos'
+    twitch: 'https://twitch.tv/natu'
+    facebook: 'https://facebook.com/natuCS'
+preferences:
+    cm360: 37.1
+    game-sensitivity: 1.2
+    windows-sensitivity: 6
+    dpi: 800
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: zowie-gtf-x
+    mouse: logitech-g303
+    keyboard: corsair-strafe

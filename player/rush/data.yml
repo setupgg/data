@@ -1,0 +1,14 @@
+name: RUSH
+game: csgo
+preferences:
+    cm360: 43.3
+    game-sensitivity: 2.4
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x800
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: steelseries-qck-plus
+    mouse: razer-deathadder-35g

@@ -1,0 +1,23 @@
+name: 'Kevin ''Ex6TenZ'' Droolans'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/LDLC_Ex6TenZ'
+    twitch: 'https://twitch.tv/ex6tenz'
+    facebook: 'https://facebook.com/VGEx6TenZ'
+    steam: 'http://steamcommunity.com/id/Ex6TenZ'
+    esea: 'https://play.esea.net/users/534224'
+preferences:
+    cm360: 27.3
+    game-sensitivity: 2
+    windows-sensitivity: 4
+    dpi: 450
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: razer-goliathus-speed
+    mouse: zowie-am-fg
+    headset: sennheiser-g4me
+    keyboard: razer-blackwidow-ultimate

@@ -1,0 +1,23 @@
+name: 'Jarosław ''pasha'' Jarząbkowski'
+game: csgo
+team: vp
+sites:
+    twitter: 'https://twitter.com/paszaBiceps'
+    twitch: 'https://twitch.tv/pashabiceps'
+    facebook: 'https://facebook.com/G5.pasha'
+    steam: 'http://steamcommunity.com/id/76561197973845818'
+    esea: 'https://play.esea.net/users/531752'
+preferences:
+    cm360: 50.9
+    game-sensitivity: 2.04
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x720
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: qpad-uc-xl
+    mouse: zowie-fk

@@ -1,0 +1,26 @@
+name: 'Nick ''nitr0'' Cannella'
+game: csgo
+team: team-liquid
+sites:
+    twitter: 'https://twitter.com/liquidnitr0'
+    instagram: 'https://instagram.com/liquidnitr0'
+    twitch: 'https://twitch.tv/nitr0_tv'
+    facebook: 'https://facebook.com/nitr0cs'
+    steam: 'http://steamcommunity.com/id/slidell'
+    esea: 'https://play.esea.net/users/501098'
+preferences:
+    cm360: 43.3
+    game-sensitivity: 2.4
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: razer-goliathus
+    mouse: razer-deathadder-chroma
+    headset: hyperx-cloud-2
+    keyboard: razer-blackwidow-chroma

@@ -1,0 +1,19 @@
+name: 'Kévin ''Uzzziii'' Vernel'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/Uzzziiicsgo'
+    facebook: 'https://facebook.com/UzzziiiCSGO'
+preferences:
+    cm360: 61.1
+    game-sensitivity: 3.1
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1600x1024
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    mouse: razer-deathadder-2013
+    keyboard: coolermaster-storm-quick-fire-storm

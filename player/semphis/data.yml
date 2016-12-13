@@ -1,0 +1,23 @@
+name: 'Kory ''Semphis'' Friesen'
+game: csgo
+team: tsm
+sites:
+    twitter: 'https://twitter.com/TSMsemphisss'
+    youtube: 'https://youtube.com/user/semphis'
+    twitch: 'https://twitch.tv/semphis'
+    esea: 'https://play.esea.net/users/263309'
+preferences:
+    cm360: 61.6
+    game-sensitivity: 1.5
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1600x900
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2420t
+    mouse: zowie-fk
+    keyboard: qpad-mk-80

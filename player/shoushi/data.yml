@@ -1,0 +1,24 @@
+name: 'K ''Shoushi'' S'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/shoushikun'
+    youtube: 'https://youtube.com/user/shoushideath'
+    twitch: 'https://twitch.tv/shoushikun'
+    steam: 'http://steamcommunity.com/id/shoushi'
+    esea: 'https://play.esea.net/users/408549'
+preferences:
+    cm360: 65.5
+    game-sensitivity: 1.55
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: zowie-g-sr
+    mouse: zowie-ec2-a
+    keyboard: steelseries-6gv2
+    headset: hyperx-cloud-2

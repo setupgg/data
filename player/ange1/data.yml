@@ -1,0 +1,20 @@
+name: 'Kiril ''ANGE1'' Karasiow'
+game: csgo
+team: hellraisers
+sites:
+    twitter: 'https://twitter.com/OfficialANGE1'
+    esea: 'https://play.esea.net/users/528293'
+preferences:
+    cm360: 61.1
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 800x600
+    aspect-ratio: '4:3'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: razer-goliathus
+    mouse: zowie-za12

@@ -1,0 +1,23 @@
+name: 'Patrik ''f0rest'' Lindberg'
+game: csgo
+team: nip
+sites:
+    twitter: 'https://twitter.com/f0restCS'
+    twitch: 'https://twitch.tv/officialf0rest'
+    facebook: 'https://facebook.com/Officialf0restCS'
+    steam: 'http://steamcommunity.com/id/ITFYTD'
+    esea: 'https://play.esea.net/users/247346'
+preferences:
+    cm360: 29.7
+    game-sensitivity: 3.5
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1600x900
+    aspect-ratio: '16:9'
+hardware:
+    monitor: eizo-foris-fg2421
+    mousepad: xtrfy-xgp1-l4
+    mouse: zowie-ec2-a

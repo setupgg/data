@@ -1,0 +1,22 @@
+name: 'Nic ''n1c'' Malan'
+game: csgo
+sites:
+    instagram: 'https://instagram.com/n1c'
+    twitch: 'https://twitch.tv/randomn1c'
+preferences:
+    cm360: 35
+    game-sensitivity: 2.8
+    windows-sensitivity: 6
+    dpi: 3200
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    keyboard: coolermaster-storm-quick-fire-stealth
+    mouse: logitech-g9x-laser
+    monitor: dell-u2412m-ultrasharp
+    mousepad: steelseries-qck
+    headset: logitech-g930
+    chair: herman-miller-aeron

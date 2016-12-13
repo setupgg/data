@@ -1,0 +1,24 @@
+name: 'Adam ''friberg'' Friberg'
+game: csgo
+team: nip
+sites:
+    twitter: 'https://twitter.com/FribergCS'
+    twitch: 'https://twitch.tv/OfficialFriberg'
+    facebook: 'https://facebook.com/OfficialFriberg'
+    esea: 'https://play.esea.net/users/280059'
+preferences:
+    cm360: 47.2
+    game-sensitivity: 1.1
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: eizo-foris-fg2421
+    mousepad: xtrfy-xgp1-l4
+    mouse: steelseries-rival
+    keyboard: xtrfy-xg1-1
+    headset: qpad-qh-90

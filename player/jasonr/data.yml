@@ -1,0 +1,21 @@
+name: 'Jason ''jasonR'' Ruchelski'
+game: csgo
+team: splyce
+sites:
+    twitter: 'https://twitter.com/SPY_jasonR'
+    twitch: 'https://twitch.tv/jasonRRR'
+    facebook: 'https://facebook.com/jasonRCSGO'
+    steam: 'http://steamcommunity.com/id/76561197985134321'
+    esea: 'https://play.esea.net/users/209044'
+preferences:
+    cm360: 52.5
+    game-sensitivity: 0.44
+    windows-sensitivity: 6
+    dpi: 1800
+    m_rawinput: 'Yes'
+hardware:
+    mousepad: steelseries-qck-plus
+    monitor: benq-xl2411z
+    mouse: razer-deathadder-chroma
+    keyboard: steelseries-6gv2
+    headset: razer-kraken-71-chroma

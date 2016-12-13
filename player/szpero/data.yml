@@ -1,0 +1,15 @@
+name: SZPERO
+game: csgo
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x1024
+    aspect-ratio: '5:4'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: qpad-uc-50
+    mouse: zowie-ec2-a

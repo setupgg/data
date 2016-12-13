@@ -1,0 +1,21 @@
+name: 'Fatih ''gob b'' Dayik'
+game: csgo
+team: nrg
+sites:
+    twitter: 'https://twitter.com/NRG_gob'
+    youtube: 'https://youtube.com/user/gobbtv'
+    twitch: 'https://twitch.tv/gobbtv'
+    facebook: 'https://facebook.com/mouzgob'
+    steam: 'http://steamcommunity.com/id/76561197961427893'
+    esea: 'https://play.esea.net/users/128165'
+preferences:
+    cm360: 52
+    game-sensitivity: 1
+    dpi: 800
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: zowie-g-sr
+    mouse: steelseries-rival

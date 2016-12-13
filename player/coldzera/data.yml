@@ -1,0 +1,21 @@
+name: 'Marcelo ''coldzera'' David'
+game: csgo
+team: lg
+sites:
+    twitter: 'https://twitter.com/LG_coldzera'
+    twitch: 'https://twitch.tv/coldzin'
+    facebook: 'https://facebook.com/rmkcoldzera'
+    steam: 'http://steamcommunity.com/id/76561198039986599'
+    esea: 'https://play.esea.net/users/720230'
+preferences:
+    cm360: 47.2
+    game-sensitivity: 1.1
+    dpi: 800
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: hyperx-fury-pro-xl
+    mouse: zowie-za12

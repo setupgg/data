@@ -1,0 +1,25 @@
+name: 'Andreas ''Xyp9x'' Højsleth'
+game: csgo
+team: astralis
+sites:
+    twitter: 'https://twitter.com/Xyp9x'
+    twitch: 'https://twitch.tv/xyp9x'
+    facebook: 'https://facebook.com/Xyp9x'
+    steam: 'http://steamcommunity.com/id/astralisXyp9x'
+    esea: 'https://play.esea.net/users/528986'
+preferences:
+    cm360: 52
+    game-sensitivity: 1
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1680x1050
+    aspect-ratio: '16:10'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: zowie-g-sr
+    mouse: zowie-fk2
+    headset: hyperx-cloud-2
+    keyboard: corsair-k65-rgb

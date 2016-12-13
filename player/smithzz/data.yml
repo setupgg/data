@@ -1,0 +1,24 @@
+name: 'Edouard ''SmithZz'' Dubourdeaux'
+game: csgo
+team: g2
+sites:
+    twitter: 'https://twitter.com/G2SmithZz'
+    twitch: 'https://twitch.tv/smithzz'
+    facebook: 'https://facebook.com/OfficialSmithZz'
+    steam: 'http://steamcommunity.com/id/OfficialSmithZz'
+    esea: 'https://play.esea.net/users/309293'
+preferences:
+    cm360: 55.3
+    game-sensitivity: 1.88
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    headset: sennheiser-pc350se
+    mousepad: steelseries-qck-heavy
+    mouse: razer-deathadder-chroma
+    keyboard: ducky-shine-3

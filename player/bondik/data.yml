@@ -1,0 +1,22 @@
+name: 'Vlаdуslаv ''bondik'' Nеchуроrchuk'
+game: csgo
+team: hellraisers
+sites:
+    twitch: 'https://twitch.tv/bondik_csgo'
+    facebook: 'https://facebook.com/vladyslav.nechyporchuk'
+    steam: 'http://steamcommunity.com/id/bondik_csgo'
+    esea: 'https://play.esea.net/users/596019'
+preferences:
+    cm360: 36.9
+    game-sensitivity: 2.5
+    windows-sensitivity: 3
+    dpi: 1800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: benq-xl2410t
+    mouse: razer-deathadder

@@ -1,0 +1,16 @@
+name: loWel
+game: csgo
+preferences:
+    cm360: 43.3
+    game-sensitivity: 2.4
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: aoc-g2460pqu
+    mousepad: razer-goliathus-control
+    mouse: logitech-g303

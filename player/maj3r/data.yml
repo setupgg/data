@@ -1,0 +1,20 @@
+name: 'Engin ''MAJ3R'' Kupeli'
+game: csgo
+team: millenium
+sites:
+    twitter: 'https://twitter.com/maj3r_'
+    twitch: 'https://twitch.tv/maj3rubyy'
+    steam: 'http://steamcommunity.com/id/76561197967432889'
+preferences:
+    game-sensitivity: 2.2
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    m_rawinput: 'Yes'
+    resolution: 800x600
+hardware:
+    mousepad: steelseries-qck
+    monitor: benq-xl2411t
+    mouse: zowie-ec2-a
+    headset: qpad-qh-90
+    keyboard: steelseries-7g

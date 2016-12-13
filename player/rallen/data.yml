@@ -1,0 +1,16 @@
+name: rallen
+game: csgo
+preferences:
+    cm360: 19.2
+    game-sensitivity: 1.2
+    windows-sensitivity: 6
+    dpi: 1800
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: steelseries-qck-mass
+    mouse: steelseries-rival

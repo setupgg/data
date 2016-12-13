@@ -1,0 +1,24 @@
+name: 'Mohamad ''m0E'' Assad'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/m0e_tv'
+    youtube: 'https://youtube.com/user/moetv1337'
+    facebook: 'https://facebook.com/moeassad86'
+    steam: 'http://steamcommunity.com/id/mOEaSS'
+    esea: 'https://play.esea.net/users/93772'
+preferences:
+    cm360: 86.6
+    game-sensitivity: 1.45
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: hyperx-fury-pro
+    mouse: finalmouse-2015
+    headset: hyperx-cloud-2
+    keyboard: ducky-shine-3

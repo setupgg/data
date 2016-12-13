@@ -1,0 +1,24 @@
+name: 'Michele ''zonixx'' Köhler'
+game: csgo
+sites:
+    twitter: 'https://twitter.com/zonixxcs'
+    twitch: 'https://twitch.tv/zonixxcs'
+    facebook: 'https://facebook.com/zonixx'
+    steam: 'http://steamcommunity.com/id/zonixx'
+    esea: 'https://play.esea.net/users/523436'
+preferences:
+    cm360: 77
+    game-sensitivity: 1.2
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 125
+    acceleration: 1.05
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: lioncast-phobos
+    mouse: razer-abyssus
+    headset: hyperx-revolver
+    keyboard: lioncast-lk30

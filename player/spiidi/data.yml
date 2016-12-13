@@ -1,0 +1,24 @@
+name: 'Timo ''Spiidi'' Richter'
+game: csgo
+team: mousesports
+sites:
+    twitter: 'https://twitter.com/SpiidiCS'
+    twitch: 'https://twitch.tv/spiidiwhaam'
+    facebook: 'https://facebook.com/SpiidiCS'
+    steam: 'http://steamcommunity.com/id/76561197973730803'
+    esea: 'https://play.esea.net/users/488719'
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: zowie-g-sr
+    mouse: zowie-ec1-a
+    keyboard: zowie-celeritas
+    headset: sennheiser-363d

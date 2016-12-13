@@ -1,0 +1,24 @@
+name: 'Savely ''jMqA'' Bragin'
+game: csgo
+team: anox
+sites:
+    twitter: 'https://twitter.com/Method_jmqa'
+    instagram: 'https://instagram.com/jmqazor'
+    twitch: 'https://twitch.tv/jmqa'
+    facebook: 'https://facebook.com/jmqa17'
+    steam: 'http://steamcommunity.com/id/jmqazored'
+preferences:
+    cm360: 37.1
+    game-sensitivity: 1.4
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1920x1080
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: steelseries-qck-mass
+    mouse: steelseries-kana
+    keyboard: steelseries-6gv2
+    headset: hyperx-cloud-core

@@ -1,0 +1,22 @@
+name: 'Ioann ''Edward'' Sukhariev'
+game: csgo
+team: navi
+sites:
+    twitter: 'https://twitter.com/IaonnSukhariev'
+    twitch: 'https://twitch.tv/edward'
+    facebook: 'https://facebook.com/OfficialEdward'
+    steam: 'http://steamcommunity.com/id/IoannSukhariev'
+    esea: 'https://play.esea.net/users/536059'
+preferences:
+    cm360: 54.7
+    game-sensitivity: 1.9
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: aoc-g2460pqu

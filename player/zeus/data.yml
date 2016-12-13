@@ -1,0 +1,24 @@
+name: 'Danylo ''Zeus'' Teslenko'
+game: csgo
+team: navi
+sites:
+    twitter: 'https://twitter.com/navizeus4444'
+    twitch: 'https://twitch.tv/Zeus'
+    facebook: 'https://facebook.com/danylo.teslenko.9'
+    steam: 'http://steamcommunity.com/id/NaViZeus'
+    esea: 'https://play.esea.net/users/577578'
+preferences:
+    cm360: 63.4
+    game-sensitivity: 1.64
+    windows-sensitivity: 3
+    dpi: 1600
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-plus
+    monitor: aoc-g2460pqu
+    mouse: steelseries-sensei-raw
+    headset: steelseries-9h

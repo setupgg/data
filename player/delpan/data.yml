@@ -1,0 +1,16 @@
+name: Delpan
+game: csgo
+preferences:
+    cm360: 67.9
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 360
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mousepad: steelseries-qck-heavy
+    monitor: eizo-foris-fg2421
+    mouse: steelseries-sensei-raw

@@ -1,0 +1,16 @@
+name: Allu
+game: csgo
+preferences:
+    cm360: 31.5
+    game-sensitivity: 3.3
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: eizo-foris-fg2421
+    mousepad: xtrfy-xtp1-l4-nip-li
+    mouse: zowie-ec1

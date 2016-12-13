@@ -1,0 +1,20 @@
+name: 'João ''felps'' Vasconcellos'
+game: csgo
+team: tempo-storm
+sites:
+    twitter: 'https://twitter.com/Tempofelps'
+    twitch: 'https://twitch.tv/fpsfelps'
+    facebook: 'https://facebook.com/felpscs'
+    steam: 'http://steamcommunity.com/id/fpsfelps'
+preferences:
+    cm360: 39.6
+    game-sensitivity: 1.4
+    windows-sensitivity: 6
+    dpi: 750
+    m_rawinput: 'Yes'
+    resolution: 1280×960
+hardware:
+    mousepad: hyperx-fury-pro
+    mouse: steelseries-sensei
+    headset: hyperx-cloud-2
+    keyboard: razer-blackwidow-2013

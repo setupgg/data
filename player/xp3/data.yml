@@ -1,0 +1,16 @@
+name: Xp3
+game: csgo
+preferences:
+    cm360: 50.4
+    game-sensitivity: 2.2
+    windows-sensitivity: 6
+    dpi: 500
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2420t
+    mousepad: steelseries-9hd
+    mouse: steelseries-rival-100

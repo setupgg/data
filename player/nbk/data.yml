@@ -1,0 +1,24 @@
+name: 'Nathan ''NBK'' Schmitt'
+game: csgo
+team: envyus
+sites:
+    twitter: 'https://twitter.com/nV_NBK'
+    instagram: 'https://instagram.com/nv_nbk'
+    twitch: 'https://twitch.tv/NBK'
+    facebook: 'https://facebook.com/NathaNizzle'
+    steam: 'http://steamcommunity.com/id/76561197960710573'
+    esea: 'https://play.esea.net/users/534244'
+preferences:
+    cm360: 42
+    game-sensitivity: 1.55
+    windows-sensitivity: 6
+    dpi: 800
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1280x720
+    aspect-ratio: '16:9'
+hardware:
+    mousepad: zowie
+    keyboard: steelseries-6gv2
+    mouse: zowie-za11

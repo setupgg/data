@@ -1,0 +1,16 @@
+name: kHRYSTAL
+game: csgo
+preferences:
+    cm360: 57.7
+    game-sensitivity: 1.8
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1366x768
+    aspect-ratio: '16:9'
+hardware:
+    monitor: asus-vg248qe
+    mousepad: razer-mantis-speed
+    mouse: logitech-g400s

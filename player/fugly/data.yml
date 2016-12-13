@@ -1,0 +1,16 @@
+name: FugLy
+game: csgo
+preferences:
+    cm360: 54.3
+    game-sensitivity: 1.7
+    windows-sensitivity: 6
+    dpi: 450
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'No'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2430t
+    mousepad: razer-goliathus-speed-large
+    mouse: razer-deathadder-chroma

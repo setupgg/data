@@ -1,0 +1,25 @@
+name: 'Michael ''Friis'' Jørgensen'
+game: csgo
+team: sk
+sites:
+    twitter: 'https://twitter.com/OfficialFriis'
+    instagram: 'https://instagram.com/MichaelFriis'
+    twitch: 'https://twitch.tv/officialfriis'
+    facebook: 'https://facebook.com/OfficialFriis'
+    esea: 'https://play.esea.net/users/531969'
+preferences:
+    cm360: 41.6
+    game-sensitivity: 2.5
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 500
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2410t
+    mousepad: mionix-sargas-450-sk
+    mouse: mionix-avior-sk
+    headset: hyperx-cloud-2
+    keyboard: mionix-zibal-60

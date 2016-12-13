@@ -1,0 +1,21 @@
+name: 'Abraham ''abE'' Fasli'
+game: csgo
+team: splyce
+sites:
+    twitter: 'https://twitter.com/SPY_abECSGO'
+    twitch: 'https://twitch.tv/abecsgo'
+    facebook: 'https://facebook.com/abecsgo'
+    steam: 'http://steamcommunity.com/id/Spyder925'
+    esea: 'https://play.esea.net/users/320857'
+preferences:
+    cm360: 41.2
+    game-sensitivity: 2.52
+    windows-sensitivity: 9
+    dpi: 400
+    m_rawinput: 'Yes'
+    resolution: 1280x720
+hardware:
+    mousepad: steelseries-qck-plus
+    mouse: razer-deathadder
+    headset: sennheiser-363d
+    keyboard: coolermaster-storm-quick-fire-storm

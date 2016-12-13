@@ -1,0 +1,24 @@
+name: 'Denis ''denis'' Howell'
+game: csgo
+team: mousesports
+sites:
+    twitter: 'https://twitter.com/mouzdenis'
+    twitch: 'https://twitch.tv/denis10_'
+    facebook: 'https://facebook.com/csgodenis'
+    steam: 'http://steamcommunity.com/id/denis-'
+    esea: 'https://play.esea.net/users/535791'
+preferences:
+    cm360: 56.2
+    game-sensitivity: 1.85
+    windows-sensitivity: 6
+    dpi: 400
+    hz: 1000
+    acceleration: 0
+    m_rawinput: 'Yes'
+    resolution: 1280x960
+    aspect-ratio: '4:3'
+hardware:
+    mouse: zowie-fk1
+    monitor: benq-xl2430t
+    mousepad: zowie-g-sr
+    keyboard: zowie-celeritas

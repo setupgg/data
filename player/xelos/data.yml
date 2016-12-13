@@ -1,0 +1,13 @@
+name: xelos
+game: csgo
+preferences:
+    cm360: 37.8
+    game-sensitivity: 2.2
+    dpi: 500
+    hz: 1000
+    resolution: 1024x768
+    aspect-ratio: '4:3'
+hardware:
+    monitor: benq-xl2411z
+    mousepad: qpad
+    mouse: asus-rog-gladius
