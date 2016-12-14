@@ -1,5 +1,11 @@
 name: 'Joshua ''steel'' Nissan'
 game: csgo
+sites:
+    twitter: 'https://twitter.com/JoshNissan'
+    instagram: 'https://www.instagram.com/joshnissan/'
+    youtube: 'https://www.youtube.com/user/JoshNissanCS'
+    twitch: 'https://www.twitch.tv/steel_tv'
+    facebook: 'https://www.facebook.com/JoshNissan'
 preferences:
     cm360: 52
     game-sensitivity: 1.3
