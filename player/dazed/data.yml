@@ -1,11 +1,16 @@
-name: DaZeD
+name: 'Sam ''dazed'' M'
 game: csgo
+sites:
+    twitter: 'https://www.twitter.com/GODaZeD'
+    youtube: 'https://www.youtube.com/c/GODaZeD'
+    twitch: 'https://www.twitch.tv/GoDaZeD'
+    facebook: 'https://www.facebook.com/GODaZeD'
 preferences:
     cm360: 51.3
     game-sensitivity: 2.025
     windows-sensitivity: 6
     dpi: 400
-    hz: 500
+    hz: 1000
     acceleration: 0
     m_rawinput: 'Yes'
     resolution: 1024x768
@@ -13,4 +18,6 @@ preferences:
 hardware:
     monitor: benq-xl2411z
     mousepad: zowie-g-sr
-    mouse: finalmouse-2015
+    mouse: razer-deathadder-chroma
+    keyboard: razer-blackwidow
+    headset: hyperx-cloud-core
