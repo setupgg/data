@@ -9,7 +9,7 @@ sites:
     steam: 'http://steamcommunity.com/id/76561198041683378'
     esea: 'https://play.esea.net/users/571970'
 preferences:
-    game-sensitivity: 1.55
+    game-sensitivity: 1.41
     windows-sensitivity: 6
     dpi: 400
     hz: 1000
